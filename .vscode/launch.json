@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ShoppingClothesApplication<Shopping-Clothes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "vn.nhom18.shoppingclothes.ShoppingClothesApplication",
+            "projectName": "Shopping-Clothes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
